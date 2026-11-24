@@ -103,4 +103,4 @@ python cpp/complaint_system.py
 ## Live Deployment
 
 - **Vercel URL:** [https://tcmresolve.vercel.app/](https://tcmresolve.vercel.app/)
-- **Repository:** [https://github.com/KaranLubhana/Resolve](https://github.com/KaranLubhana/Resolve)
+- **Repository:** [https://github.com/Kunallubhana77/Resolve-VS-Code](https://github.com/Kunallubhana77/Resolve-VS-Code)
