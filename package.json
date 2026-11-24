@@ -1,0 +1,20 @@
+{
+  "name": "resolve-complaint-system",
+  "version": "1.0.0",
+  "description": "Resolve — Complaint & Ticket Management System (DSA Project)",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000"
+  },
+  "keywords": [
+    "dsa",
+    "ticket-management",
+    "complaint-system",
+    "queue",
+    "priority-queue",
+    "hash-map",
+    "linked-list"
+  ],
+  "author": "",
+  "license": "MIT"
+}

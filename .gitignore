@@ -1,0 +1,16 @@
+# Dependencies & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+*.o
+*.obj
+
+# Logs & temp
+*.log
+.system_generated/
+.gemini/
+
+# OS files
+.DS_Store
+Thumbs.db
